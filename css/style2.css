@@ -1,0 +1,41 @@
+.wrapper{
+    margin-top: 50px;
+	min-height: 780px;
+    position: relative;
+}
+.wrapper2{
+    margin-top: 50px;
+    position: relative;
+    min-height:auto;
+}
+.section-padding {
+    background-color: rgb(247, 247, 247);
+}
+.glyphicon-envelope{
+    font-size: 20px !important;
+}
+.border{
+    border: green !important;
+}
+.orga-stru2
+{
+    width: 200px !important;
+}
+#organisations{
+    background-color: white !important;
+}
+#courses{
+    background-color: white !important;
+}
+.mouse
+{
+    transform: rotate(90deg);
+    background-color: black;
+}
+
+.style {
+    padding-right: 0px !important;
+}
+.fon{
+    background-color: rgb(247, 247, 247);
+}
